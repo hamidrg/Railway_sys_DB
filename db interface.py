@@ -6,7 +6,7 @@ import mysql.connector
 
 db_config = {
     'user': 'root',
-    'password': 'hamidrg@@2008',
+    'password': 'yourpass',
     'host': 'localhost',
     'port': '3306',
     'database': 'railway_sys'
